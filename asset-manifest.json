@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "assetSourceRevision": "initial",
+  "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
+  "assets": [
+    {
+      "path": "assets/email-signature/kcalbapp-signature.png",
+      "sha256": "ee39ebda4c12013af07a62ee27728371d2576f07c5885e88872e8b993c4ad703",
+      "bytes": 29941,
+      "containerFormat": "PNG",
+      "width": 696,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-crypto-only.png",
+      "sha256": "b88cedd7bf9eb9826e7edbe6eb734ee30c11452e1be7debd8efc669c522309d4",
+      "bytes": 4270,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-fin.png",
+      "sha256": "0d72bf5fb3cabe3c884d4aa065e0c845190aef30dd839e56fb9693fdf5ee3635",
+      "bytes": 1518,
+      "containerFormat": "PNG",
+      "width": 48,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-inoai.png",
+      "sha256": "49d9cc8cf384fb95b96a2a1af2642061293e156e00267cbd9377789967ca263c",
+      "bytes": 3498,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-inoswap.png",
+      "sha256": "9120ba47373cac523599651bbf707139c69e377bdb91a07a7eb22d2d1e29fb63",
+      "bytes": 3118,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-kcanther.png",
+      "sha256": "663ea220874ca042738a51cf19fb0f6739ae19f650969a72aadaf2efd1ff2e02",
+      "bytes": 4446,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-stakeholdrop.png",
+      "sha256": "51fb75e1d609730770b6c883326d03576b233e21f88e2c8da83c8d716d80e37d",
+      "bytes": 4052,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/email-signature/sig-xitcoin.png",
+      "sha256": "603c335e4859977fff46165ec58cd8508a1b4db02d142d7b09e802aa3eadb30e",
+      "bytes": 3901,
+      "containerFormat": "PNG",
+      "width": 76,
+      "height": 192,
+      "embeddedRaster": null,
+      "notes": "Email signature banner slice (2x)"
+    },
+    {
+      "path": "assets/png/round/kcalbapp-round-1024.png",
+      "sha256": "d8de8c3af825a424a9449b7fa2f0cc8084785d093a24cd40fd06e6d40eaa374b",
+      "bytes": 123312,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/kcalbapp-round-200.png",
+      "sha256": "9afd2d007b890c2bdd490b67b55dc99c66734d0287487c527bc857f44b8acd60",
+      "bytes": 14734,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/kcalbapp-round-3000.png",
+      "sha256": "9752d2705f12a0025b58adb20305eea3ff7a7794a6136d6bbd3b9912ec2d6553",
+      "bytes": 619334,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/kcalbapp-round-32.png",
+      "sha256": "2be25c88b75cb34ccdc30c8e8ed8669f19cb8b2c232d908d66ae9ffb95bdd8f9",
+      "bytes": 1730,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/round/kcalbapp-round-500.png",
+      "sha256": "2cc2e6de0fcebd0a531c4834c91ed2698901a09503a662d5d67f5365cacdac56",
+      "bytes": 43592,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Round avatar, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/kcalbapp-square-1024.png",
+      "sha256": "bc3304c8cf44defba35bd2a19bbd4a333df3a3e8e8798a0c00f01492a59931c1",
+      "bytes": 109625,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/kcalbapp-square-200.png",
+      "sha256": "44593b2e8c15fd9d4ede31f17a1e6ba9a730be3a49b00b7e9427b1905f871bdc",
+      "bytes": 12308,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/kcalbapp-square-3000.png",
+      "sha256": "bba756d8262335a59b312f8a6679a681848241bf24cc9b6b12d0039a375e685f",
+      "bytes": 571165,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/kcalbapp-square-32.png",
+      "sha256": "9076f95cac05f0b8d26e290c7d31d59892d4b7f82cc3675fac45b77833ba59bf",
+      "bytes": 1485,
+      "containerFormat": "PNG",
+      "width": 32,
+      "height": 32,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/square/kcalbapp-square-500.png",
+      "sha256": "ab0975586b324243d34d83aec896d0c71cdb4aed79399e4ec4d9ca6acaf7a7aa",
+      "bytes": 37188,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "App icon / profile picture, rounded square, brand color and shadow"
+    },
+    {
+      "path": "assets/png/symbol-color/kcalbapp-symbol-color-1024.png",
+      "sha256": "8d18b5b76120a92d07b97f8a46a904d43e512e9a48f5315944871775ba654881",
+      "bytes": 46919,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/kcalbapp-symbol-color-200.png",
+      "sha256": "8f909b677c7142ee8c304216b8ad4c4e75b1896d6c8c5fac54da101b4f3a707f",
+      "bytes": 5394,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/kcalbapp-symbol-color-3000.png",
+      "sha256": "eeb79ac6aaee903ba1c4ae60862551424dd0a7ae7a6fcf7604c53d28fcced87f",
+      "bytes": 202533,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-color/kcalbapp-symbol-color-500.png",
+      "sha256": "14581d9b86946a426969f44fad878191c5c97282f86a0540e29bfd5db31f7f69",
+      "bytes": 17120,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/kcalbapp-symbol-white-1024.png",
+      "sha256": "9edc9c7a92b1f4b7a4c40e27b1e314b82f87aa33850799f3f75401d988cb2644",
+      "bytes": 32235,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/kcalbapp-symbol-white-200.png",
+      "sha256": "204e813243cde3b9983fcad6195151fff2e02262502c9dd78039e5253a862e9a",
+      "bytes": 3802,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/kcalbapp-symbol-white-3000.png",
+      "sha256": "9cf64da24f01ef570cc80c69274d951a56cc97578d69f0c8196d55fc72ac5599",
+      "bytes": 133397,
+      "containerFormat": "PNG",
+      "width": 3000,
+      "height": 3000,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/png/symbol-white/kcalbapp-symbol-white-500.png",
+      "sha256": "f91a7b79c7f67fcaa4990dce670b6f7769ac26425219f7dff951b505e456fcbe",
+      "bytes": 12977,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds"
+    },
+    {
+      "path": "assets/svg/kcalbapp-round.svg",
+      "sha256": "bcfaddab6ec0b4dab87f8c7916725767e77983645f2e207ddb66ff9465b91e2b",
+      "bytes": 1128,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, round with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/kcalbapp-square.svg",
+      "sha256": "e582a75fb593ee7f593fb229770156397408d1028fda332d7e2cb7d756d38284",
+      "bytes": 1136,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, rounded square with shadow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/kcalbapp-symbol-color.svg",
+      "sha256": "014b5797a3ae49bb85d4b376d813c002a656551aafab5f720b72673f0c1e16fd",
+      "bytes": 541,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Symbol in brand color on transparent background, for white or light backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
+      "path": "assets/svg/kcalbapp-symbol-white.svg",
+      "sha256": "7f65846fc8b14a15a6a6207eb50192ecfb131a08b281418c4a10590143c13127",
+      "bytes": 538,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
+    }
+  ],
+  "assetSetSha256": "c5d2224d3cc579c14681503ebe689f009e1484d0dd5e8cfdffd3e4ac7f47c5f0"
+}
