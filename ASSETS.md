@@ -2,18 +2,21 @@
 
 Generated 24 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `c5d2224d3cc579c14681503ebe689f009e1484d0dd5e8cfdffd3e4ac7f47c5f0`
+Asset set SHA-256: `f23483d05f47788164ade5fce327ac46d99e246eeff3c816f58cff9015c2e896`
 
 | File | Format | Size | Use |
 |---|---|---|---|
-| [assets/email-signature/kcalbapp-signature.png](assets/email-signature/kcalbapp-signature.png) | PNG | 696 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-crypto-only.png](assets/email-signature/sig-crypto-only.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/kcalbapp-signature.png](assets/email-signature/kcalbapp-signature.png) | PNG | 612 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-crypto-only.png](assets/email-signature/sig-crypto-only.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
 | [assets/email-signature/sig-fin.png](assets/email-signature/sig-fin.png) | PNG | 48 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoai.png](assets/email-signature/sig-inoai.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoswap.png](assets/email-signature/sig-inoswap.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-kcanther.png](assets/email-signature/sig-kcanther.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-stakeholdrop.png](assets/email-signature/sig-stakeholdrop.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-xitcoin.png](assets/email-signature/sig-xitcoin.png) | PNG | 76 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-inoai.png](assets/email-signature/sig-inoai.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-inoplace.png](assets/email-signature/sig-inoplace.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-inopulse.png](assets/email-signature/sig-inopulse.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-inoshop.png](assets/email-signature/sig-inoshop.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-inoswap.png](assets/email-signature/sig-inoswap.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-kcanther.png](assets/email-signature/sig-kcanther.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-stakeholdrop.png](assets/email-signature/sig-stakeholdrop.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/email-signature/sig-xitcoin.png](assets/email-signature/sig-xitcoin.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
 | [assets/png/round/kcalbapp-round-1024.png](assets/png/round/kcalbapp-round-1024.png) | PNG | 1024 × 1024 | Round avatar, brand color and shadow |
 | [assets/png/round/kcalbapp-round-200.png](assets/png/round/kcalbapp-round-200.png) | PNG | 200 × 200 | Round avatar, brand color and shadow |
 | [assets/png/round/kcalbapp-round-3000.png](assets/png/round/kcalbapp-round-3000.png) | PNG | 3000 × 3000 | Round avatar, brand color and shadow |
