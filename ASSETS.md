@@ -1,8 +1,8 @@
 # Asset inventory
 
-Generated 24 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
+Generated 26 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `f23483d05f47788164ade5fce327ac46d99e246eeff3c816f58cff9015c2e896`
+Asset set SHA-256: `942ab8aa329046d26da2ed58ddd595139189e32c8e9682e5837da8cf3b31d82b`
 
 | File | Format | Size | Use |
 |---|---|---|---|
@@ -17,6 +17,9 @@ Asset set SHA-256: `f23483d05f47788164ade5fce327ac46d99e246eeff3c816f58cff9015c2
 | [assets/email-signature/sig-kcanther.png](assets/email-signature/sig-kcanther.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
 | [assets/email-signature/sig-stakeholdrop.png](assets/email-signature/sig-stakeholdrop.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
 | [assets/email-signature/sig-xitcoin.png](assets/email-signature/sig-xitcoin.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
+| [assets/png/app-icon/kcalbapp-app-icon-1024.png](assets/png/app-icon/kcalbapp-app-icon-1024.png) | PNG | 1024 × 1024 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
+| [assets/png/app-icon/kcalbapp-app-icon-200.png](assets/png/app-icon/kcalbapp-app-icon-200.png) | PNG | 200 × 200 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
+| [assets/png/app-icon/kcalbapp-app-icon-500.png](assets/png/app-icon/kcalbapp-app-icon-500.png) | PNG | 500 × 500 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/round/kcalbapp-round-1024.png](assets/png/round/kcalbapp-round-1024.png) | PNG | 1024 × 1024 | Round avatar, brand color and shadow |
 | [assets/png/round/kcalbapp-round-200.png](assets/png/round/kcalbapp-round-200.png) | PNG | 200 × 200 | Round avatar, brand color and shadow |
 | [assets/png/round/kcalbapp-round-3000.png](assets/png/round/kcalbapp-round-3000.png) | PNG | 3000 × 3000 | Round avatar, brand color and shadow |
@@ -35,9 +38,8 @@ Asset set SHA-256: `f23483d05f47788164ade5fce327ac46d99e246eeff3c816f58cff9015c2
 | [assets/png/symbol-white/kcalbapp-symbol-white-200.png](assets/png/symbol-white/kcalbapp-symbol-white-200.png) | PNG | 200 × 200 | White symbol on transparent background, for dark or colored backgrounds |
 | [assets/png/symbol-white/kcalbapp-symbol-white-3000.png](assets/png/symbol-white/kcalbapp-symbol-white-3000.png) | PNG | 3000 × 3000 | White symbol on transparent background, for dark or colored backgrounds |
 | [assets/png/symbol-white/kcalbapp-symbol-white-500.png](assets/png/symbol-white/kcalbapp-symbol-white-500.png) | PNG | 500 × 500 | White symbol on transparent background, for dark or colored backgrounds |
+| [assets/svg/kcalbapp-app-icon.svg](assets/svg/kcalbapp-app-icon.svg) | SVG | 1024 × 1024 | Vector master, app icon with glow (path-based vector, 1024 x 1024 viewBox) |
 | [assets/svg/kcalbapp-round.svg](assets/svg/kcalbapp-round.svg) | SVG | 1024 × 1024 | Vector master, round with shadow (path-based vector, 1024 x 1024 viewBox) |
 | [assets/svg/kcalbapp-square.svg](assets/svg/kcalbapp-square.svg) | SVG | 1024 × 1024 | Vector master, rounded square with shadow (path-based vector, 1024 x 1024 viewBox) |
-| [assets/svg/kcalbapp-symbol-color.svg](assets/svg/kcalbapp-symbol-color.svg) | SVG | 1024 × 1024 | Symbol in brand color on transparent background, for white or light backgrounds (path-based vector, 1024 x 1024 viewBox) |
-| [assets/svg/kcalbapp-symbol-white.svg](assets/svg/kcalbapp-symbol-white.svg) | SVG | 1024 × 1024 | White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox) |
-
-All SVG files are genuine path-based vectors: no embedded raster images, scripts or external references. PNG exports are rendered from the same masters at 4096 px and downsampled.
+| [assets/svg/kcalbapp-symbol-color.svg](assets/svg/kcalbapp-symbol-color.svg) | SVG | 1024 × 1024 | Vector master, symbol in brand color (path-based vector, 1024 x 1024 viewBox) |
+| [assets/svg/kcalbapp-symbol-white.svg](assets/svg/kcalbapp-symbol-white.svg) | SVG | 1024 × 1024 | Vector master, white symbol (path-based vector, 1024 x 1024 viewBox) |

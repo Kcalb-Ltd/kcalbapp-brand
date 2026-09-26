@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "assetSourceRevision": "initial",
+  "assetSourceRevision": "2026-09-26",
   "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
   "assets": [
     {
@@ -114,9 +114,39 @@
       "notes": "Email signature banner slice (2x)"
     },
     {
+      "path": "assets/png/app-icon/kcalbapp-app-icon-1024.png",
+      "sha256": "19a3e88d406c3d663321ffc84c9547f2177120b66edecf0564999c222211779b",
+      "bytes": 293362,
+      "containerFormat": "PNG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule"
+    },
+    {
+      "path": "assets/png/app-icon/kcalbapp-app-icon-200.png",
+      "sha256": "19f8252d6edbc26cd297c57e2ee6ba47fbde33a4e03294a6a9509edb13b1f223",
+      "bytes": 25848,
+      "containerFormat": "PNG",
+      "width": 200,
+      "height": 200,
+      "embeddedRaster": null,
+      "notes": "App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule"
+    },
+    {
+      "path": "assets/png/app-icon/kcalbapp-app-icon-500.png",
+      "sha256": "db860ac1fa52fb9ee84393530f9b05450bb65010e4975704d6cd6e9564c9a5b6",
+      "bytes": 99670,
+      "containerFormat": "PNG",
+      "width": 500,
+      "height": 500,
+      "embeddedRaster": null,
+      "notes": "App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule"
+    },
+    {
       "path": "assets/png/round/kcalbapp-round-1024.png",
-      "sha256": "3226ee62530e8307d1e49a761c4c0aed0e359573de4613eb662d2bc3163342f8",
-      "bytes": 127442,
+      "sha256": "b6be4d95c052817acfb59b92506fd974b8cb9636c72427aad4674ad89b5ebff0",
+      "bytes": 167503,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -125,8 +155,8 @@
     },
     {
       "path": "assets/png/round/kcalbapp-round-200.png",
-      "sha256": "ecd64f61aad4545c7c509f91db967c4d64460db29012ba92ba92fc80302bed9c",
-      "bytes": 15356,
+      "sha256": "6d0037055a5f0fe47784bfa59a806cf7ec45ee0f7a0d64f92ffff67bd4017867",
+      "bytes": 18422,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -135,8 +165,8 @@
     },
     {
       "path": "assets/png/round/kcalbapp-round-3000.png",
-      "sha256": "57bfcd05090757d33066b807d84a79d47195f5483f179a830509a11dcbf0fb86",
-      "bytes": 646302,
+      "sha256": "988f346b69c3c0b787d19239e8fa791de2e80da0f2f1860bdf027eb1961b93a8",
+      "bytes": 889767,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -145,8 +175,8 @@
     },
     {
       "path": "assets/png/round/kcalbapp-round-32.png",
-      "sha256": "fdc56517cd56ce944bf2557e37b25e0a5ccdbe16a1578456a78a699bf70940db",
-      "bytes": 1876,
+      "sha256": "e19e999a9195a26e9015d22e1c3307fd2dba10c19d3763ac7d2a3a5d7611115a",
+      "bytes": 1767,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -155,8 +185,8 @@
     },
     {
       "path": "assets/png/round/kcalbapp-round-500.png",
-      "sha256": "d6bc96bb9a2151b61d11df72b624f5c379809c0bf5be3d9353f1785693ccd405",
-      "bytes": 44715,
+      "sha256": "83f907d6fe552e2c943ae1eb40a6df3e34d18bdb1384dd28a222dba895394122",
+      "bytes": 57758,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -165,8 +195,8 @@
     },
     {
       "path": "assets/png/square/kcalbapp-square-1024.png",
-      "sha256": "557bf9f4f3e341498fadeb6935ec49d7a12fedba1a8fce9872131bb2dfe7177a",
-      "bytes": 113808,
+      "sha256": "15d40a6e099765ad2a30f3f61887adc6aca1683a78b243386dd1ac3460da061d",
+      "bytes": 143337,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -175,8 +205,8 @@
     },
     {
       "path": "assets/png/square/kcalbapp-square-200.png",
-      "sha256": "a6a7dcb813bf83626a711e2d93ef9e35ce65623f71347c0d723b79035ac2b9b7",
-      "bytes": 12878,
+      "sha256": "8285cab99fbbcff4fc22c987c3e823c64e5d2c912232e718595ae100f3b6d488",
+      "bytes": 14336,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -185,8 +215,8 @@
     },
     {
       "path": "assets/png/square/kcalbapp-square-3000.png",
-      "sha256": "2a2fc00ddb490bf08c8c559450a24957346691d4184021078322c77dd075c8d7",
-      "bytes": 599579,
+      "sha256": "87155e7dc476ae9bdb25ebacccd0dceac03eeba9500404fe168a3eb8a847dc65",
+      "bytes": 814630,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -195,8 +225,8 @@
     },
     {
       "path": "assets/png/square/kcalbapp-square-32.png",
-      "sha256": "b37508f9687c91a79627dc4062f8d4496ababf0b511cb17492ddee6c9ac2c140",
-      "bytes": 1586,
+      "sha256": "f5d4e02bef259a1103c179ddebb07954f371c0622c4ad2bff4c70887f634db62",
+      "bytes": 1472,
       "containerFormat": "PNG",
       "width": 32,
       "height": 32,
@@ -205,8 +235,8 @@
     },
     {
       "path": "assets/png/square/kcalbapp-square-500.png",
-      "sha256": "08e91db52a999ea8dba6cd759e5d0733feb29ac52dba72a5faee270a364a999d",
-      "bytes": 38130,
+      "sha256": "801f5ffd4e32ec37bbd24ca691cdd88e00b0d85fb1d25dcb262c5e09ef1eee4a",
+      "bytes": 46537,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -215,8 +245,8 @@
     },
     {
       "path": "assets/png/symbol-color/kcalbapp-symbol-color-1024.png",
-      "sha256": "33b54c665993ef0a6c31b444e3512ccfbcc110350600caf2aff384d33ab15774",
-      "bytes": 49458,
+      "sha256": "ddbe6593b0cfe5e115950fd1dbbd57ab71897a0c245fecac2d0daaefde69d1a7",
+      "bytes": 52958,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -225,8 +255,8 @@
     },
     {
       "path": "assets/png/symbol-color/kcalbapp-symbol-color-200.png",
-      "sha256": "a46ff118e2f388d96852afdddc5d5b162ec13ac644a0a80cd51e9d5b645c9d81",
-      "bytes": 5736,
+      "sha256": "374ca53a1dad34e934b779aedadd171c6cdc6e36f1a55896c013265cbaf99b36",
+      "bytes": 8142,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -235,8 +265,8 @@
     },
     {
       "path": "assets/png/symbol-color/kcalbapp-symbol-color-3000.png",
-      "sha256": "5c7f6f169b121c29a11292caf1111a3fde89f4a19f3b67d552af84adc4568bde",
-      "bytes": 214432,
+      "sha256": "4ac2accdf0064ad295b7a6dfb2b6dae5c39ed1d9d58dd95a3ad276b6d00b84f6",
+      "bytes": 192313,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -245,8 +275,8 @@
     },
     {
       "path": "assets/png/symbol-color/kcalbapp-symbol-color-500.png",
-      "sha256": "4d99a25c34525c88fa0ee068ccd4fb4dd56f4b5b703dea4f97aaba6932cf284d",
-      "bytes": 18299,
+      "sha256": "e207968109bd07c3bbf4646d1de23a62a2b4c54ec5507ae32e630f1fa87d7a2c",
+      "bytes": 23199,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -255,8 +285,8 @@
     },
     {
       "path": "assets/png/symbol-white/kcalbapp-symbol-white-1024.png",
-      "sha256": "e5c24d587634f87b0b569541be7331155de5828e162f4afeeaa3276ebc0ba96b",
-      "bytes": 34176,
+      "sha256": "ed2db6f7975e097b81d1f76a7908bed89f551e2f8af3ad46f6d6ff94c63ffda3",
+      "bytes": 36571,
       "containerFormat": "PNG",
       "width": 1024,
       "height": 1024,
@@ -265,8 +295,8 @@
     },
     {
       "path": "assets/png/symbol-white/kcalbapp-symbol-white-200.png",
-      "sha256": "dda0f4ad2e2ed348644d90e965731854f9c933422b4a1e8fcafd08d1f5f18f9b",
-      "bytes": 4312,
+      "sha256": "3c5298342a3d70a02834626717a442bbb273433a3c07172ae90e190d88918735",
+      "bytes": 4018,
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
@@ -275,8 +305,8 @@
     },
     {
       "path": "assets/png/symbol-white/kcalbapp-symbol-white-3000.png",
-      "sha256": "5386609bcdb5c7f6395feefd6a66913116c15bc0de08fc2df8026f80c35db562",
-      "bytes": 139782,
+      "sha256": "2088b5854cd3f208472e01e3f74c28909978308b4adf271ce79bce9d7b699c6c",
+      "bytes": 147646,
       "containerFormat": "PNG",
       "width": 3000,
       "height": 3000,
@@ -285,8 +315,8 @@
     },
     {
       "path": "assets/png/symbol-white/kcalbapp-symbol-white-500.png",
-      "sha256": "441b1cac52f6582e8f2768cacb87c6878499670c01daed3122d403028bae4c2c",
-      "bytes": 13691,
+      "sha256": "34a5d0939886a4fe448fca640728629d2ee7db75d0de93ec558f0e5b035623cb",
+      "bytes": 15087,
       "containerFormat": "PNG",
       "width": 500,
       "height": 500,
@@ -294,9 +324,19 @@
       "notes": "White symbol on transparent background, for dark or colored backgrounds"
     },
     {
+      "path": "assets/svg/kcalbapp-app-icon.svg",
+      "sha256": "c844d9970772f87a71c67ec535ff98ad6495b02dc1559de4a4ddddd7fea2c18f",
+      "bytes": 1482,
+      "containerFormat": "SVG",
+      "width": 1024,
+      "height": 1024,
+      "embeddedRaster": null,
+      "notes": "Vector master, app icon with glow (path-based vector, 1024 x 1024 viewBox)"
+    },
+    {
       "path": "assets/svg/kcalbapp-round.svg",
-      "sha256": "51d9f0b5be6cca6b05cd52101d6922c0f50b854743c87b51bbe8fa689700a226",
-      "bytes": 1202,
+      "sha256": "948cc158190e5b0933d885a27724667b9c89b3e0e8687fd332c7976e30dabcec",
+      "bytes": 1092,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -305,8 +345,8 @@
     },
     {
       "path": "assets/svg/kcalbapp-square.svg",
-      "sha256": "e976f55af0e17fa59516eda3083130d063115585e8b9b4d23f7f535be8992ee0",
-      "bytes": 1210,
+      "sha256": "1c9ef1e9355038ee11db63c40088df9de80e87f3f8007c5ea0f10b32a696f07a",
+      "bytes": 1100,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
@@ -315,24 +355,24 @@
     },
     {
       "path": "assets/svg/kcalbapp-symbol-color.svg",
-      "sha256": "cadaca45767aa2148baf99e5095efd9b0989396c491d5a55fd32b5731a5a545b",
-      "bytes": 615,
+      "sha256": "7d74f294b59d7879596907a3d5186100668cf02655372da623682ed2006e3097",
+      "bytes": 555,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
       "embeddedRaster": null,
-      "notes": "Symbol in brand color on transparent background, for white or light backgrounds (path-based vector, 1024 x 1024 viewBox)"
+      "notes": "Vector master, symbol in brand color (path-based vector, 1024 x 1024 viewBox)"
     },
     {
       "path": "assets/svg/kcalbapp-symbol-white.svg",
-      "sha256": "5f52dd0251799509f2c7985f91977fc0d5517813ca3b9b24c73c7d960e539404",
-      "bytes": 612,
+      "sha256": "b5d768e8e40d84e250d04240ba4ef116774cf9f36a0565a7600711b6665fb99b",
+      "bytes": 552,
       "containerFormat": "SVG",
       "width": 1024,
       "height": 1024,
       "embeddedRaster": null,
-      "notes": "White symbol on transparent background, for dark or colored backgrounds (path-based vector, 1024 x 1024 viewBox)"
+      "notes": "Vector master, white symbol (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "f23483d05f47788164ade5fce327ac46d99e246eeff3c816f58cff9015c2e896"
+  "assetSetSha256": "942ab8aa329046d26da2ed58ddd595139189e32c8e9682e5837da8cf3b31d82b"
 }

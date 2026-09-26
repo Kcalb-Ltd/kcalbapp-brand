@@ -17,6 +17,7 @@ KcalbApp is a brand of [Kcalb Ltd](https://kcalb-ltd.com), part of the KcalbApp 
 | Round avatar, wallet or token list | [`assets/png/round/`](assets/png/round/) — 32, 200, 500, 1024, 3000 px |
 | Symbol on a dark or colored background | [`assets/png/symbol-white/`](assets/png/symbol-white/) |
 | Symbol on a white or light background | [`assets/png/symbol-color/`](assets/png/symbol-color/) |
+| App icon on the stores, Discord server icon | [`assets/png/app-icon/`](assets/png/app-icon/) — 200, 500, 1024 px |
 | Print, large formats, any other size | [`assets/svg/`](assets/svg/) — vector masters |
 
 Every PNG is rendered from the SVG masters. Use the SVG whenever the platform accepts it, otherwise the smallest PNG that is at least as large as the display size on a high-density screen.
@@ -30,8 +31,11 @@ Direct links, for integrations: `https://raw.githubusercontent.com/Kcalb-Ltd/kca
 | KcalbApp | `#5E4FD1` | background of the icon, symbol on light backgrounds |
 | Shadow | `#272158` | drop shadow under the symbol only |
 | White | `#FFFFFF` | symbol on the brand color or on dark backgrounds |
+| App icon | `#21003C` to `#8A44D8` | deep violet background of the app icon only |
 
-The icon is a flat brand color with a white symbol and a soft drop shadow toward the lower right. The mark itself never uses gradients.
+The icon is a flat brand color with a white symbol and a soft drop shadow toward the lower right. The mark itself never uses gradients. The app icon is the one exception: the same white symbol on a deep violet background with a soft glow.
+
+Updated 26 September 2026: the pentagon keeps its shape with a thinner stroke, and the app icon is added.
 
 ## Usage rules
 
