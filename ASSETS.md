@@ -1,24 +1,14 @@
 # Asset inventory
 
-Generated 26 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
+Generated 27 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `942ab8aa329046d26da2ed58ddd595139189e32c8e9682e5837da8cf3b31d82b`
+Asset set SHA-256: `321fe88d73e4705c26ec42b5612d513d7fe24c37d93cc351c0503152829e3676`
 
 | File | Format | Size | Use |
 |---|---|---|---|
-| [assets/email-signature/kcalbapp-signature.png](assets/email-signature/kcalbapp-signature.png) | PNG | 612 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-crypto-only.png](assets/email-signature/sig-crypto-only.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-fin.png](assets/email-signature/sig-fin.png) | PNG | 48 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoai.png](assets/email-signature/sig-inoai.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoplace.png](assets/email-signature/sig-inoplace.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inopulse.png](assets/email-signature/sig-inopulse.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoshop.png](assets/email-signature/sig-inoshop.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-inoswap.png](assets/email-signature/sig-inoswap.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-kcanther.png](assets/email-signature/sig-kcanther.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-stakeholdrop.png](assets/email-signature/sig-stakeholdrop.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
-| [assets/email-signature/sig-xitcoin.png](assets/email-signature/sig-xitcoin.png) | PNG | 60 × 192 | Email signature banner slice (2x) |
 | [assets/png/app-icon/kcalbapp-app-icon-1024.png](assets/png/app-icon/kcalbapp-app-icon-1024.png) | PNG | 1024 × 1024 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/app-icon/kcalbapp-app-icon-200.png](assets/png/app-icon/kcalbapp-app-icon-200.png) | PNG | 200 × 200 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
+| [assets/png/app-icon/kcalbapp-app-icon-4096.png](assets/png/app-icon/kcalbapp-app-icon-4096.png) | PNG | 4096 × 4096 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/app-icon/kcalbapp-app-icon-500.png](assets/png/app-icon/kcalbapp-app-icon-500.png) | PNG | 500 × 500 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/round/kcalbapp-round-1024.png](assets/png/round/kcalbapp-round-1024.png) | PNG | 1024 × 1024 | Round avatar, brand color and shadow |
 | [assets/png/round/kcalbapp-round-200.png](assets/png/round/kcalbapp-round-200.png) | PNG | 200 × 200 | Round avatar, brand color and shadow |

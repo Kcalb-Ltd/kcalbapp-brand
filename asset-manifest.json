@@ -1,118 +1,8 @@
 {
   "schemaVersion": 1,
-  "assetSourceRevision": "2026-09-26",
+  "assetSourceRevision": "2026-09-27",
   "license": "All rights reserved, Kcalb Ltd (see LICENSE)",
   "assets": [
-    {
-      "path": "assets/email-signature/kcalbapp-signature.png",
-      "sha256": "218065b5f97b038f9f63d69fe1df5b4b02f6ba99a7ed7f1839ce19b8b54d64c7",
-      "bytes": 28599,
-      "containerFormat": "PNG",
-      "width": 612,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-crypto-only.png",
-      "sha256": "72d4796372217c25e5cc9088152f5544142b25c6fff0380f8321f32da475f850",
-      "bytes": 3467,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-fin.png",
-      "sha256": "69e3af48feb7b857b49f318b76710fbdc56e82075269ac4689100d41978de469",
-      "bytes": 1545,
-      "containerFormat": "PNG",
-      "width": 48,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-inoai.png",
-      "sha256": "9ac94b1de91b0e518dfc7425a9f5a0a225431afa450637b21262c404de79edbf",
-      "bytes": 2850,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-inoplace.png",
-      "sha256": "223a72e73ef52e2f6528bd7851f4216461c84625e32d1cb6e32347989d945b44",
-      "bytes": 3046,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-inopulse.png",
-      "sha256": "f084f2bfc6e0b282af4a4136dc0f25d518913ee59e9a8b2c317d3bc50eeed0b9",
-      "bytes": 2732,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-inoshop.png",
-      "sha256": "3e638e4c1b795f3764b45e620c795483b5beb62806815d0e7945053a5593c424",
-      "bytes": 3104,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-inoswap.png",
-      "sha256": "585f4c132042026c3ad7dc2596ad50fdf31e9cbc32dbdf7d9793380d39e895a7",
-      "bytes": 2744,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-kcanther.png",
-      "sha256": "4b1197f412ad9839be5b4b5acdebeaedc7c35fb538315a9716cd113afe8f0413",
-      "bytes": 3924,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-stakeholdrop.png",
-      "sha256": "78ceca6ee0b98f9dafbdf963721fefcfe318737eabb3d63a0b75bbb9a8154a72",
-      "bytes": 3489,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
-    {
-      "path": "assets/email-signature/sig-xitcoin.png",
-      "sha256": "6a94c8bc6b1604bd0791a989a9dd32c3703a12dce12368115cfa3ea0b0ac8ab2",
-      "bytes": 3248,
-      "containerFormat": "PNG",
-      "width": 60,
-      "height": 192,
-      "embeddedRaster": null,
-      "notes": "Email signature banner slice (2x)"
-    },
     {
       "path": "assets/png/app-icon/kcalbapp-app-icon-1024.png",
       "sha256": "19a3e88d406c3d663321ffc84c9547f2177120b66edecf0564999c222211779b",
@@ -130,6 +20,16 @@
       "containerFormat": "PNG",
       "width": 200,
       "height": 200,
+      "embeddedRaster": null,
+      "notes": "App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule"
+    },
+    {
+      "path": "assets/png/app-icon/kcalbapp-app-icon-4096.png",
+      "sha256": "cbd24dd82120baa55fc3a707f6e3639b453c8304536698cb1bc516892f394631",
+      "bytes": 2510624,
+      "containerFormat": "PNG",
+      "width": 4096,
+      "height": 4096,
       "embeddedRaster": null,
       "notes": "App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule"
     },
@@ -374,5 +274,5 @@
       "notes": "Vector master, white symbol (path-based vector, 1024 x 1024 viewBox)"
     }
   ],
-  "assetSetSha256": "942ab8aa329046d26da2ed58ddd595139189e32c8e9682e5837da8cf3b31d82b"
+  "assetSetSha256": "321fe88d73e4705c26ec42b5612d513d7fe24c37d93cc351c0503152829e3676"
 }
