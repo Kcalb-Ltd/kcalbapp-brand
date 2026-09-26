@@ -2,10 +2,21 @@
 
 Generated 27 September 2026. The [machine-readable manifest](asset-manifest.json) records byte lengths and SHA-256 identifiers; `scripts/verify-assets.py` checks them on every change.
 
-Asset set SHA-256: `321fe88d73e4705c26ec42b5612d513d7fe24c37d93cc351c0503152829e3676`
+Asset set SHA-256: `6affa5d67799de98c3747d564994f326715ab320d9b4a974c9e8739db7174b9e`
 
 | File | Format | Size | Use |
 |---|---|---|---|
+| [assets/email-signature/kcalbapp-signature.png](assets/email-signature/kcalbapp-signature.png) | PNG | 612 × 192 | Vector master |
+| [assets/email-signature/sig-crypto-only.png](assets/email-signature/sig-crypto-only.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-fin.png](assets/email-signature/sig-fin.png) | PNG | 48 × 192 | Vector master |
+| [assets/email-signature/sig-inoai.png](assets/email-signature/sig-inoai.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-inoplace.png](assets/email-signature/sig-inoplace.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-inopulse.png](assets/email-signature/sig-inopulse.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-inoshop.png](assets/email-signature/sig-inoshop.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-inoswap.png](assets/email-signature/sig-inoswap.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-kcanther.png](assets/email-signature/sig-kcanther.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-stakeholdrop.png](assets/email-signature/sig-stakeholdrop.png) | PNG | 60 × 192 | Vector master |
+| [assets/email-signature/sig-xitcoin.png](assets/email-signature/sig-xitcoin.png) | PNG | 60 × 192 | Vector master |
 | [assets/png/app-icon/kcalbapp-app-icon-1024.png](assets/png/app-icon/kcalbapp-app-icon-1024.png) | PNG | 1024 × 1024 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/app-icon/kcalbapp-app-icon-200.png](assets/png/app-icon/kcalbapp-app-icon-200.png) | PNG | 200 × 200 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
 | [assets/png/app-icon/kcalbapp-app-icon-4096.png](assets/png/app-icon/kcalbapp-app-icon-4096.png) | PNG | 4096 × 4096 | App icon for stores and Discord: deep violet with a soft glow, the one exception to the flat rule |
